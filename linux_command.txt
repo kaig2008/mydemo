@@ -1,0 +1,8 @@
+﻿ls -ltr|grep 13:28
+
+find /opt/data/log -type f -name "*.log" | xargs grep "xtxX3dnN3LOUin5SIUWJAsTf6RIKCFgi"
+
+#
+feature:install webconsole
+
+http://114.215.237.201:8181/system/console/bundles
